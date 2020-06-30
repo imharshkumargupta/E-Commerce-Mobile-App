@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ajay-jat214/E-Commerce-Mobile-App.git/static/css/main.3d735ec3.chunk.css",
-    "main.js": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/main.e7ac39bd.chunk.js",
-    "main.js.map": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/main.e7ac39bd.chunk.js.map",
-    "runtime-main.js": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/runtime-main.b5de2787.js",
-    "runtime-main.js.map": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/runtime-main.b5de2787.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/ajay-jat214/E-Commerce-Mobile-App.git/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.fcaccd92.chunk.js": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/2.fcaccd92.chunk.js",
-    "static/js/2.fcaccd92.chunk.js.map": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/2.fcaccd92.chunk.js.map",
-    "index.html": "/ajay-jat214/E-Commerce-Mobile-App.git/index.html",
-    "precache-manifest.336e09f36b534f6a68afdc241b5d866b.js": "/ajay-jat214/E-Commerce-Mobile-App.git/precache-manifest.336e09f36b534f6a68afdc241b5d866b.js",
-    "service-worker.js": "/ajay-jat214/E-Commerce-Mobile-App.git/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/ajay-jat214/E-Commerce-Mobile-App.git/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.3d735ec3.chunk.css.map": "/ajay-jat214/E-Commerce-Mobile-App.git/static/css/main.3d735ec3.chunk.css.map",
-    "static/js/2.fcaccd92.chunk.js.LICENSE.txt": "/ajay-jat214/E-Commerce-Mobile-App.git/static/js/2.fcaccd92.chunk.js.LICENSE.txt"
+    "main.css": "/E-Commerce-Mobile-App.git/static/css/main.3d735ec3.chunk.css",
+    "main.js": "/E-Commerce-Mobile-App.git/static/js/main.497a644f.chunk.js",
+    "main.js.map": "/E-Commerce-Mobile-App.git/static/js/main.497a644f.chunk.js.map",
+    "runtime-main.js": "/E-Commerce-Mobile-App.git/static/js/runtime-main.64172e7b.js",
+    "runtime-main.js.map": "/E-Commerce-Mobile-App.git/static/js/runtime-main.64172e7b.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/E-Commerce-Mobile-App.git/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.fcaccd92.chunk.js": "/E-Commerce-Mobile-App.git/static/js/2.fcaccd92.chunk.js",
+    "static/js/2.fcaccd92.chunk.js.map": "/E-Commerce-Mobile-App.git/static/js/2.fcaccd92.chunk.js.map",
+    "index.html": "/E-Commerce-Mobile-App.git/index.html",
+    "precache-manifest.628b3b17f3681e87c3d3d08d857d5745.js": "/E-Commerce-Mobile-App.git/precache-manifest.628b3b17f3681e87c3d3d08d857d5745.js",
+    "service-worker.js": "/E-Commerce-Mobile-App.git/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/E-Commerce-Mobile-App.git/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.3d735ec3.chunk.css.map": "/E-Commerce-Mobile-App.git/static/css/main.3d735ec3.chunk.css.map",
+    "static/js/2.fcaccd92.chunk.js.LICENSE.txt": "/E-Commerce-Mobile-App.git/static/js/2.fcaccd92.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5de2787.js",
+    "static/js/runtime-main.64172e7b.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.fcaccd92.chunk.js",
     "static/css/main.3d735ec3.chunk.css",
-    "static/js/main.e7ac39bd.chunk.js"
+    "static/js/main.497a644f.chunk.js"
   ]
 }
